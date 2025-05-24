@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
+
+include/
+lib/
+lib64/
+lib64
+bin/
